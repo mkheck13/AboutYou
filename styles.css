@@ -1,0 +1,36 @@
+img {
+  width: 25%;
+  height: auto;
+  background-color: transparent;
+  margin-left: 65ex;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+p {
+  color: blue;
+  /* background-color: darkgray; */
+  /* text-align: center; */
+}
+
+h3 {
+  color: darkblue;
+  background-color: darkgray;
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+}
+
+.spaceOut {
+  display: flex;
+  justify-content: space-between;
+  color: blue;
+  background-color: darkgray;
+}
+.socialButton {
+  display: flex;
+  justify-content: space-evenly;
+}
